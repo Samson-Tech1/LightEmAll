@@ -6,6 +6,6 @@ This is LightEmAll! LightEmAll is a strategy, puzzle-based game with the main ta
 
 
 
-## 🚨 Disclaimer
+## ‼️Disclaimer‼️
 
 This code is not to be used for college assignments. The code is uploaded to my github as part of my portfolio, but as you all know, this code may not be used as plagiarism and I do not conde any acts made through the **theft** of this code. Other than that though, enjoy!
